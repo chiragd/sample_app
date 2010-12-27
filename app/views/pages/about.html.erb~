@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Property App | <%= @title %></title>
+  </head>
+  <body>
+    <h1>About Us</h1>
+    <p>
+      We're launching a new application to help you work
+      smarter. More details coming soon.
+    </p>
+  </body>
+</html>
