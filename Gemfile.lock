@@ -85,6 +85,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  mail (= 2.2.12)
   rails (= 3.0.3)
   rspec (= 2.1.0)
   rspec-rails (= 2.1.0)

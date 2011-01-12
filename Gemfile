@@ -7,6 +7,8 @@ gem 'rails', '3.0.3'
 
 gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
 
+gem 'mail', '2.2.12', :require => 'mail'
+
 group :development do
   gem 'rspec-rails', '2.1.0'
 end
